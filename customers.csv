@@ -1,0 +1,53 @@
+customer_id,customer_name,email,city,country,signup_date
+1,Olivia Sharma,olivia.sharma@example.com,New York,USA,2023-05-23
+2,Olivia Nair,olivia.nair@example.com,  Pune  ,india,2024-08-27
+3,Isha Sharma,,New York,USA,2024-06-01
+4,Sara Sharma,sara.sharma@example.com,  Pune  ,UK,2023-08-14
+5,Kabir Garcia,kabir.garcia@example.com,Mumbai,INDIA,2024-12-15
+6,Isha Mehta,isha.mehta@example.com,New York,United States,2023-04-15
+7,Liam Brown,,Toronto,Australia,2023-09-28
+8,Diya Lee,diya.lee@example.com,delhi,UK,2023-03-22
+9,Anaya Khan,anaya.khan@example.com,Chennai,United States,2024-08-14
+10,Arjun Lee,,New York,usa,2023-03-23
+11,Sofia Gupta,,london,uk,2024-10-12
+12,Ava Smith,ava.smith@example.com,New York,Germany,2023-10-01
+13,Liam Garcia,liam.garcia@example.com,  Pune  ,USA,2023-06-17
+14,Kabir Brown,kabir.brown@example.com,  Pune  ,USA,2024-12-02
+15,Vivaan Gupta,vivaan.gupta@example.com,Mumbai,USA,2023-02-02
+16,Vivaan Brown,vivaan.brown@example.com,New York,Australia,2025-01-05
+17,Vivaan Johnson,vivaan.johnson@example.com,Sydney,Germany,2024-04-14
+18,Noah Khan,noah.khan@example.com,  Pune  ,Canada,2023-09-27
+19,Rohan Brown,rohan.brown@example.com,Sydney,United States,2023-08-13
+20,Noah Singh,noah.singh@example.com,Mumbai,india,2023-06-06
+21,Emma Wilson,emma.wilson@example.com,Chennai,india,2024-01-30
+22,Ethan Garcia,ethan.garcia@example.com,  Pune  ,usa,2024-07-20
+23,Aarav Nair,aarav.nair@example.com,  Pune  ,usa,2025-02-26
+24,Vivaan Patel,vivaan.patel@example.com,Bangalore,uk,2023-01-04
+25,Lucas Singh,lucas.singh@example.com,  Pune  ,india,2024-10-02
+26,Mia Gupta,mia.gupta@example.com,Chennai,USA,2023-06-06
+27,Ava Wilson,ava.wilson@example.com,  Pune  ,India,2024-09-05
+28,Vivaan Davis,,Toronto,usa,2023-09-03
+29,Diya Johnson,diya.johnson@example.com,delhi,india,2025-01-19
+30,Zara Gupta,,  Pune  ,INDIA,2023-05-12
+31,Zara Singh,zara.singh@example.com,  Pune  ,Australia,2024-03-09
+32,Arjun Singh,arjun.singh@example.com,New York,usa,2024-02-13
+33,Ava Davis,ava.davis@example.com,Berlin,india,2023-09-11
+34,Sofia Patel,sofia.patel@example.com,Chennai,Canada,2023-08-24
+35,Rohan Johnson,,Mumbai,USA,2023-03-11
+36,Diya Gupta,diya.gupta@example.com,  Pune  ,USA,2023-10-13
+37,Zara Johnson,zara.johnson@example.com,Chennai,Australia,2024-04-29
+38,Sofia Wilson,sofia.wilson@example.com,Sydney,USA,2023-04-07
+39,Olivia Nair,olivia.nair@example.com,Sydney,UK,2024-04-23
+40,Diya Nair,diya.nair@example.com,delhi,India,2024-02-17
+41,Vivaan Wilson,vivaan.wilson@example.com,New York,USA,2023-07-14
+42,Anaya Davis,anaya.davis@example.com,Bangalore,usa,2024-04-18
+43,Sofia Gupta,sofia.gupta@example.com,Berlin,Canada,2023-04-11
+44,Diya Nair,diya.nair@example.com,Mumbai,india,2025-02-10
+45,Sofia Smith,sofia.smith@example.com,Berlin,USA,2024-02-15
+46,Diya Smith,diya.smith@example.com,Sydney,usa,2024-04-10
+47,Mia Brown,mia.brown@example.com,  Pune  ,Germany,2025-01-05
+48,Zara Smith,zara.smith@example.com,New York,India,2024-08-16
+49,Anaya Sharma,anaya.sharma@example.com,Mumbai,India,2024-08-21
+50,Zara Singh,zara.singh@example.com,  Pune  ,INDIA,2023-02-28
+4,Sara Sharma,sara.sharma@example.com,  Pune  ,UK,2023-08-14
+11,Sofia Gupta,,london,uk,2024-10-12
